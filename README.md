@@ -19,7 +19,7 @@ MEGHNA</a></h1>
 
 - 💬 Ask me about * Java*
 
-- 📫 How to reach me *riyamitra892@gmail.com* or **https://www.linkedin.com/in/meghna-mitra-74413824a/**
+- 📫 How to reach me *riyamitra892@gmail.com* or **https://www.linkedin.com/in/meghnamitra08m/**
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
