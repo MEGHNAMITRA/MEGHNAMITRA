@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">
 MEGHNA</a></h1>
-<h3 align="center">A Passionate programmer from West Bengal,India &#127470;&#127475</h3>
+<h3 align="center">A Passionate Data Analyst from West Bengal,India &#127470;&#127475</h3>
 
 
 
@@ -10,15 +10,11 @@ MEGHNA</a></h1>
   <img align="right" top="200" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Web Development Projects
-- 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate with other developers and designers 
-- ⚡ I am also an active listener. 
-- 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/MEGHNAMITRA/100daysofcodingchallenge" target="blank">100DaysOfCodeChallenge</a>
-
-
-- 💬 Ask me about * Java*
-
+- 🔭 I’m currently Working on Data Analysis Projects
+- 🌱 I’m continuously learning and improving my skills
+- 👯 I’m looking to collaborate with other data analysts, developers and designers 
+- ⚡ I am also dedicated to craeting data-driven and visually appealing designs. 
+- 💬 Ask me about * Data Analysis and Data Visualization*
 - 📫 How to reach me *riyamitra892@gmail.com* or **https://www.linkedin.com/in/meghnamitra08m/**
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
